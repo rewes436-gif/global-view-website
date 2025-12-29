@@ -18,8 +18,8 @@
         }
         header {
             background: linear-gradient();
-            background-color: white;
-            color: white;
+            background-color: #3498db;;
+            color:black;
             padding: 1rem 0;
             position: fixed;
             width: 100%;
